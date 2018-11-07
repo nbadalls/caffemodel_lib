@@ -1,7 +1,7 @@
 # Save caffemodel deploy
-<br><br>
 
 ## RDCCNN:
+[paper](https://arxiv.org/pdf/1708.05234.pdf)
 RDCCNN<br>
 
 ## DeepID：
@@ -19,6 +19,7 @@ MobileFaceNet-xception-bn<br>
 SE-MobileFaceNet-bn<br>
 
 ## Deeper MobileFaceNet：
+[github_project](https://github.com/zuoqing1988/ZQCNN-v0.0)
 MobileFaceNet-res2-6-10-2-d128-k-7-6-bn<br>
 MobileFaceNet-res2-6-10-2-d128-k-9-8-bn<br>
 mobilefacenet-res4-8-16-4-d128-k-6-7<br>
@@ -36,7 +37,9 @@ mobilenet-v1dpwise-bn<br>
 mobilenet-v2dpwise-bn<br>
 
 ## shuffleNet
+[paper](https://arxiv.org/pdf/1707.01083.pdf)
 shufflenet-1x-p1-g3-d200<br>
 
-## NasNet
+## NasNet 
+[paper](https://arxiv.org/pdf/1807.11626.pdf)
 MnasNet<br>
