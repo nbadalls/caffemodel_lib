@@ -8,9 +8,9 @@ RDCCNN<br>
 DeepID256-bn
 
 ## DeepID+Crelu：
-DeepIDCReluC2
-DeepIDCReluC3
-DeepIDCReluC4
+DeepIDCReluC2<br>
+DeepIDCReluC3<br>
+DeepIDCReluC4<br>
 
 ## MobileFaceNet：
 MobileFaceNet-bn
